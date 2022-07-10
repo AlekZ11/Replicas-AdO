@@ -1,0 +1,5 @@
+set -tmpdir "/home/alekz/Descargas/ReplicasEjercicios01/xst/projnav.tmp"
+set -xsthdpdir "/home/alekz/Descargas/ReplicasEjercicios01/xst"
+elaborate
+-ifn ContadorReplica11.prj
+-ifmt mixed
